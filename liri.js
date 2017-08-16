@@ -87,7 +87,7 @@ function spotifyLog(song) {
 //create function for movie command 
 function movieLog() {
     // use request package to grab data from omd api
-    request("http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=40e9cece", function(error, response, body) {
+    request("http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&tomatoes=true&apikey=40e9cece", function(error, response, body) {
 
         // if the request was successful 
         if (!error && response.statusCode === 200) {
@@ -100,11 +100,11 @@ function movieLog() {
             console.log("Language of the movie: " + JSON.parse(body).Language);
             console.log("Plot of the movie: " + JSON.parse(body).Plot);
             console.log("Actors in the movie: " + JSON.parse(body).Actors);
-            console.log("Rotten Tomatoes Rating of the movie: " + JSON.parse(body).Ratings[1].Value + "\n");
+            console.log("Rotten Tomatoes URL: " + JSON.parse(body).tomatoURL + "\n");
 
 
             //append data to log.txt file
-            fs.appendFileSync('log.txt', `\nTitle of the movie: ${JSON.parse(body).Title}\n Year the movie came out: ${JSON.parse(body).Year}\n IMDB Rating of the movie: ${JSON.parse(body).imdbRating}\n Country where the movie was produced: ${JSON.parse(body).Country}\n Language of the movie:  ${JSON.parse(body).Language}\n Plot of the movie:  ${JSON.parse(body).Plot}\n Actors in the movie:  ${JSON.parse(body).Actors}\n Rotten Tomatoes Rating of the movie: ${JSON.parse(body).Ratings[1].Value}\n\n`)
+            fs.appendFileSync('log.txt', `\nTitle of the movie: ${JSON.parse(body).Title}\n Year the movie came out: ${JSON.parse(body).Year}\n IMDB Rating of the movie: ${JSON.parse(body).imdbRating}\n Country where the movie was produced: ${JSON.parse(body).Country}\n Language of the movie:  ${JSON.parse(body).Language}\n Plot of the movie:  ${JSON.parse(body).Plot}\n Actors in the movie:  ${JSON.parse(body).Actors}\n Rotten Tomatoes URL: ${JSON.parse(body).tomatoURL}\n\n`)
         }
     });
 }

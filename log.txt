@@ -458,3 +458,187 @@ Title of the movie: Suits
  Actors in the movie:  Gabriel Macht, Patrick J. Adams, Rick Hoffman, Meghan Markle
  Rotten Tomatoes URL: N/A
 
+
+Title of the movie: Mr. Nobody
+ Year the movie came out: 2009
+ IMDB Rating of the movie: 7.9
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+ Language of the movie:  English, Mohawk
+ Plot of the movie:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors in the movie:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+
+Title of the movie: undefined
+ Year the movie came out: undefined
+ IMDB Rating of the movie: undefined
+ Country where the movie was produced: undefined
+ Language of the movie:  undefined
+ Plot of the movie:  undefined
+ Actors in the movie:  undefined
+ Rotten Tomatoes URL: undefined
+
+
+Title of the movie: Benjamin
+ Year the movie came out: 2007
+ IMDB Rating of the movie: N/A
+ Country where the movie was produced: USA
+ Language of the movie:  English
+ Plot of the movie:  At the end of his rope and full of despair a homeless man receives a gift, which inevitably becomes more trouble than what it is worth. On his quest to escape from the world of nameless ...
+ Actors in the movie:  Liz Bauer, Sonia N. Bishop, Rose Campellone, Mai-Kim Dang
+ Rotten Tomatoes URL: N/A
+
+
+Title of the movie: Mr. Nobody
+ Year the movie came out: 2009
+ IMDB Rating of the movie: 7.9
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+ Language of the movie:  English, Mohawk
+ Plot of the movie:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors in the movie:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+
+Title of the movie: Mr. Nobody
+ Year the movie came out: 2009
+ IMDB Rating of the movie: 7.9
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+ Language of the movie:  English, Mohawk
+ Plot of the movie:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors in the movie:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+
+Title of the movie: Mr. Nobody
+ Year the movie came out: 2009
+ IMDB Rating of the movie: 7.9
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+ Language of the movie:  English, Mohawk
+ Plot of the movie:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors in the movie:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+
+Title of the movie: The Curious Case of Benjamin Button
+ Year the movie came out: 2008
+ IMDB Rating of the movie: 7.8
+ Country where the movie was produced: USA
+ Language of the movie:  English, Russian, French
+ Plot of the movie:  Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.
+ Actors in the movie:  Cate Blanchett, Brad Pitt, Julia Ormond, Faune Chambers Watkins
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/curious_case_of_benjamin_button/
+
+
+Title of the movie: The Curious Case of Benjamin Button
+ Year the movie came out: 2008
+ IMDB Rating of the movie: 7.8
+ Country where the movie was produced: USA
+ Language of the movie:  English, Russian, French
+ Plot of the movie:  Tells the story of Benjamin Button, a man who starts aging backwards with bizarre consequences.
+ Actors in the movie:  Cate Blanchett, Brad Pitt, Julia Ormond, Faune Chambers Watkins
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/curious_case_of_benjamin_button/
+
+
+Tweet: Tweeeeeet
+  Created On:Tue Aug 15 23:09:19 +0000 2017
+
+
+Tweet: Node.js
+  Created On:Tue Aug 15 23:08:25 +0000 2017
+
+
+Tweet: Tweet 3
+  Created On:Tue Aug 15 23:08:16 +0000 2017
+
+
+Tweet: Tweet 2
+  Created On:Tue Aug 15 23:08:09 +0000 2017
+
+
+Tweet: Tweet 1 - LIRI works
+  Created On:Tue Aug 15 23:07:52 +0000 2017
+
+
+Artist(s): Ace of Base
+ Song Name: The Sign
+ Preview Url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=80e27fe4daff4c33ae3ed66df786adea
+ Album Name: The Sign (US Album) [Remastered]
+
+
+Artist(s): Queen
+ Song Name: Another One Bites The Dust
+ Preview Url: null
+ Album Name: The Game (Deluxe Remastered Version)
+
+
+Title of the movie: undefined
+ Year the movie came out: undefined
+ IMDB Rating of the movie: undefined
+ Country where the movie was produced: undefined
+ Language of the movie:  undefined
+ Plot of the movie:  undefined
+ Actors in the movie:  undefined
+ Rotten Tomatoes URL: undefined
+
+
+Title of the movie: Cinderella
+ Year the movie came out: 2015
+ IMDB Rating of the movie: 7.0
+ Country where the movie was produced: USA, UK
+ Language of the movie:  English
+ Plot of the movie:  When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+ Actors in the movie:  Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/cinderella_2013/
+
+
+Artist(s): Ленинград
+ Song Name: Super Good
+ Preview Url: https://p.scdn.co/mp3-preview/839470e7d5ee5ad5a492a49d05b316f080de8877?cid=80e27fe4daff4c33ae3ed66df786adea
+ Album Name: Made in Russia (Compiled and mixed by Gülbahar Kültür)
+
+
+Title of the movie: Mr. Nobody
+ Year the movie came out: 2009
+ IMDB Rating of the movie: 7.9
+ Country where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+ Language of the movie:  English, Mohawk
+ Plot of the movie:  A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+ Actors in the movie:  Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+
+Title of the movie: Cinderella
+ Year the movie came out: 2015
+ IMDB Rating of the movie: 7.0
+ Country where the movie was produced: USA, UK
+ Language of the movie:  English
+ Plot of the movie:  When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her scheming step-sisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+ Actors in the movie:  Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+ Rotten Tomatoes URL: http://www.rottentomatoes.com/m/cinderella_2013/
+
+
+Tweet: Tweeeeeet
+  Created On:Tue Aug 15 23:09:19 +0000 2017
+
+
+Tweet: Node.js
+  Created On:Tue Aug 15 23:08:25 +0000 2017
+
+
+Tweet: Tweet 3
+  Created On:Tue Aug 15 23:08:16 +0000 2017
+
+
+Tweet: Tweet 2
+  Created On:Tue Aug 15 23:08:09 +0000 2017
+
+
+Tweet: Tweet 1 - LIRI works
+  Created On:Tue Aug 15 23:07:52 +0000 2017
+
+
+Artist(s): Ace of Base
+ Song Name: The Sign
+ Preview Url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=80e27fe4daff4c33ae3ed66df786adea
+ Album Name: The Sign (US Album) [Remastered]
+

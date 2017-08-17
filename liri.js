@@ -34,9 +34,11 @@ switch (command) {
         break;
 
     case "movie-this":
-        var movieName = process.argv[3]
-        if (process.argv[3] === undefined) {
-            var movieName = "Mr. Nobody"
+        var restOfArgs = process.argv.splice(3, process.argv.length);
+        var movieName = restOfArgs.join(" ");
+        console.log(restOfArgs);
+        if (movieName === "") {
+            movieName = "Mr. Nobody"
         }
         movieLog();
         break;

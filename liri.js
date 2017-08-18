@@ -46,6 +46,9 @@ switch (command) {
     case "do-what-it-says":
         addLog();
         break;
+    case "commands":
+        console.log("\nmy-tweets\nspotify-this-song\nmovie-this\ndo-what-it-says");
+        break;
 }
 
 //create function for twitter command
